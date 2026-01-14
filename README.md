@@ -2,7 +2,7 @@
 
 Visão Geral do Projeto
 
-Este projeto é um estudo prático e simples de análise de dados, focado na análise de vendas de uma loja online utilizando MySQL. O objetivo é extrair insights de negócio por meio de consultas SQL bem estruturadas e preparação dos dados para visualização eno Power BI.
+Este projeto é um estudo prático e simples de análise de dados, focado na análise de vendas de uma loja online utilizando MySQL. O objetivo é extrair insights de negócio por meio de consultas SQL bem estruturadas e preparação dos dados para visualização no Power BI.
 
 O projeto foi desenvolvido com foco em aprendizado e construção de portfólio.
 
@@ -15,8 +15,6 @@ Analisar métricas de desempenho de vendas
 Identificar padrões, tendências e insights relevantes
 
 Preparar dados para dashboards interativos
-
-Manter um projeto organizado e bem documentado no GitHub
 
 ---
 
